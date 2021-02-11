@@ -26,18 +26,18 @@ segments asyncronously, in order of their time slot.
 So when the conference starts the conference page looks like
 this:
 
-<img src="start2.jpg" />
+<img src="start2.jpg" height=400 />
 
 As the world turns, speakers click the record button for
 their slot and add their respective segments.
 
 12 hours later the conference page looks like this:
 
-<img src="halfway2.jpg" />
+<img src="halfway2.jpg" height=400 />
 
 After 24 hours:
 
-<img src="done2.jpg" />
+<img src="done2.jpg" height=400 />
 
 That conference is a wrap!
 
