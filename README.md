@@ -1,2 +1,80 @@
-# sleepytimeconference
-The Conference that Comes Together While You Sleep
+# Sleepy Time Conference
+
+The conference that comes together while you sleep.
+
+## The Problem
+
+Working from home is now a solved problem.
+
+Working from the other side of the world is not.
+
+Twelve hour time zones differences still suck.
+
+Attend a conference at 3am my time? No thanks!
+
+## The Solution
+
+Sleepy Time Conference is open source video conference
+software with a twist: you can go to sleep while a
+conference is going on without missing a thing.
+
+## How it works
+
+A **1 hour** conference takes place over **24 hours**.
+But instead of using live syncronous software like
+Zoom, conference speakers and questioners record their
+segments asyncronously, in order of their time slot.
+
+So when the conference starts the conference page looks like
+this:
+
+<img src="start.jpg" />
+
+As the world turns, speakers click the record button for
+their slot and add their respective segments.
+
+12 hours later the conference page looks like this:
+
+<img src="halfway.jpg" />
+
+After 24 hours:
+
+<img src="done.jpg" />
+
+That conference is a wrap!
+
+A full 1 hour video of the conference is now available for
+watching.
+
+## Relevant Links
+
+- https://www.descript.com/
+
+### Open Source
+
+- https://shotcut.org/
+- https://www.openshot.org/
+
+### Closed Source
+
+- https://www.youtube.com/
+- https://vimeo.com/
+- https://www.apple.com/final-cut-pro/
+- https://www.apple.com/imovie/
+- https://www.adobe.com/products/premiere.html
+
+## Project Status
+
+You're looking at it
+
+## Important
+
+    There is a domain
+    the public domain
+    the only domain there should be.
+    
+    Where ideas can mingle
+    improve and change
+    So that the people can be free.
+
+
