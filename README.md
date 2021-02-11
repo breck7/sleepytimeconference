@@ -6,11 +6,9 @@ The conference that comes together while you sleep.
 
 Working from home is now a solved problem.
 
-Working from the other side of the world is not.
-
-Twelve hour time zones differences still suck.
-
-Attend a conference at 3am my time? No thanks!
+Working from the other side of the world is not. Twelve
+hour time zones differences suck! Attend a conference
+at 3am? No thanks!
 
 ## The Solution
 
