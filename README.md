@@ -44,7 +44,7 @@ That conference is a wrap!
 A full 1 hour video of the conference is now available for
 watching.
 
-## Relevant Links
+## Possibly Relevant Video Editing Interfaces
 
 - https://www.descript.com/
 
@@ -60,6 +60,12 @@ watching.
 - https://www.apple.com/final-cut-pro/
 - https://www.apple.com/imovie/
 - https://www.adobe.com/products/premiere.html
+- https://www.ableton.com/en/
+
+## Less Relevant But Cool
+- https://www.autodesk.com/products/maya/overview
+- https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&support=null
+- https://www.foundry.com/products/modo
 
 ## Project Status
 
